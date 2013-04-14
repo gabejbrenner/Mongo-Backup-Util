@@ -1,4 +1,4 @@
-#Setup
+##Setup
 
 Clone the repository:
 
@@ -15,9 +15,9 @@ And add it to your host with this code:
 
         ssh-copy-id -f .ssh/id_rsa.keyname user@hostname.com
 
-#Dependencies
+##Dependencies
 
-##Ruby:
+###Ruby:
 
 Install with:
 
@@ -27,7 +27,7 @@ or:
 
         \curl -#L https://get.rvm.io | bash -s stable --autolibs=3 --ruby
 
-##SSH:
+###SSH:
 
 Install with:
 

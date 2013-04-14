@@ -1,5 +1,4 @@
-Setup
-=====
+#Setup
 
 Clone the repository:
 
@@ -15,3 +14,21 @@ NOTE: if you wish to use this utility with [Cron](http://en.wikipedia.org/wiki/C
 And add it to your host with this code:
 
         ssh-copy-id -f .ssh/id_rsa.keyname user@hostname.com
+
+#Dependencies
+
+##Ruby:
+
+Install with:
+
+        sudo apt-get install ruby
+
+or:
+
+        \curl -#L https://get.rvm.io | bash -s stable --autolibs=3 --ruby
+
+##SSH:
+
+Install with:
+
+        sudo apt-get install ssh
