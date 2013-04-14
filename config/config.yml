@@ -1,0 +1,13 @@
+databases:
+  - locomotive_dev
+  - locomotive_dev1
+  - locomotive_dev2
+  - relbane
+
+host: rightsizer@rightsizer.com
+
+key: .ssh/id_rsa.relbane
+
+output-directory: /home/gabejbrenner/mongodb-backup
+
+log: runtime-log.txt
