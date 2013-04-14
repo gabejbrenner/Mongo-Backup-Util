@@ -11,19 +11,19 @@ class Logger
   end
 
   def dbTransfer(db)
-    "#{db} has been transferred"
+    "#{db} has been transferred\n"
   end
 
   def fileCreated(path)
-    "Created #{path}"
+    "Created #{path}\n"
   end
 
   def dirCreateFail(dirname)
-    "Failed to created #{dirname}"
+    "Failed to created #{dirname}\n"
   end
 
   def fileCreateFail(path)
-    "Failed to create #{path}"
+    "Failed to create #{path}\n"
   end
 
   def dirNotFound(dirname)
