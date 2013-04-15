@@ -33,6 +33,7 @@ Or if you wish to use [RVM](rvm.io) first install [curl](http://curl.haxx.se/):
         sudo apt-get install curl
 
 Then install [RVM](rvm.io):
+
         \curl -#L https://get.rvm.io | bash -s stable --autolibs=3 --ruby
 
 ###SSH:
