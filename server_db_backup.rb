@@ -1,9 +1,9 @@
 require 'yaml'
 
 class Logger
-  def initialize
-    @log = File.open('log/runtime-log.txt', 'a')
-    @log << "\n|=============================#{DateTime.now.strftime("%m-%d-%y  %r")}=============================|\n\n"
+  def initialize(log)
+    @log = File.open(log, 'a')
+    @log << "\n|=======================================#{DateTime.now.strftime("%m-%d-%y  %r")}=======================================|\n\n"
   end
 
   def dirCreated(dirname)
@@ -61,8 +61,8 @@ end
 
 class Backup
   def initialize
-    @logger = Logger.new
     @config = YAML.load_file('config/config.yml')
+    @logger = Logger.new(@config['log'])
     @outputDir = @config["output-dir"]
     self.checkDirs
     self.getBackup

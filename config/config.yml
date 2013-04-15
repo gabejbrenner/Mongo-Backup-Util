@@ -1,10 +1,10 @@
 databases:
-  - database
+  - database-name
 
 host: user@hostname.com
 
-key: ~/.ssh/id_rsa.keyname
+key: /home/user/.ssh/id_rsa.keyname
 
-output-dir: /home/user/somedir
+output-dir: /home/user/mongodb-backup
 
-log: runtime-log.txt
+log: log/runtime-log.txt
