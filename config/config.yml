@@ -1,13 +1,9 @@
 databases:
-  - locomotive_dev
-  - locomotive_dev1
-  - locomotive_dev2
-  - relbane
+  - database name
+host: user@hostname.com.com
 
-host: rightsizer@rightsizer.com
+key: /home/user/.ssh/id_rsa.keyname
 
-key: ~/.ssh/id_rsa.relbane
-
-output-dir: /home/gabejbrenner/mongodb-backup
+output-dir: /home/user/somedir
 
 log: runtime-log.txt
