@@ -1,7 +1,6 @@
 ##Setup
 
 Clone the repository:
-Or if you wish to use [RVM](rvm.io) first install [curl](http://curl.haxx.se/):
 
         git clone https://github.com/gabejbrenner/Mongo-Backup-Util.git
 

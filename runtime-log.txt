@@ -1,0 +1,166 @@
+
+|=======================================04-15-13  12:00:01 AM=======================================|
+
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev	 to 	dump/locomotive_dev
+	locomotive_dev.locomotive_content_types to dump/locomotive_dev/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev.system.indexes to dump/locomotive_dev/system.indexes.bson
+		 6 objects
+	locomotive_dev.locomotive_sites to dump/locomotive_dev/locomotive_sites.bson
+		 1 objects
+	locomotive_dev.locomotive_accounts to dump/locomotive_dev/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev.locomotive_pages to dump/locomotive_dev/locomotive_pages.bson
+		 11 objects
+	locomotive_dev.locomotive_theme_assets to dump/locomotive_dev/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev.locomotive_snippets to dump/locomotive_dev/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 00:00:06 CDT 2013](SUCCESS):locomotive_dev has been transferred
+[Mon Apr 15 00:00:12 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev/04-15-13:00.tar
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev1	 to 	dump/locomotive_dev1
+	locomotive_dev1.locomotive_accounts to dump/locomotive_dev1/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev1.system.indexes to dump/locomotive_dev1/system.indexes.bson
+		 6 objects
+	locomotive_dev1.locomotive_sites to dump/locomotive_dev1/locomotive_sites.bson
+		 1 objects
+	locomotive_dev1.locomotive_theme_assets to dump/locomotive_dev1/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev1.locomotive_pages to dump/locomotive_dev1/locomotive_pages.bson
+		 12 objects
+	locomotive_dev1.locomotive_content_types to dump/locomotive_dev1/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev1.locomotive_snippets to dump/locomotive_dev1/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 00:00:15 CDT 2013](SUCCESS):locomotive_dev1 has been transferred
+[Mon Apr 15 00:00:18 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev1/04-15-13:00.tar
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev2	 to 	dump/locomotive_dev2
+	locomotive_dev2.locomotive_accounts to dump/locomotive_dev2/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev2.system.indexes to dump/locomotive_dev2/system.indexes.bson
+		 6 objects
+	locomotive_dev2.locomotive_sites to dump/locomotive_dev2/locomotive_sites.bson
+		 1 objects
+	locomotive_dev2.locomotive_theme_assets to dump/locomotive_dev2/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev2.locomotive_pages to dump/locomotive_dev2/locomotive_pages.bson
+		 12 objects
+	locomotive_dev2.locomotive_content_types to dump/locomotive_dev2/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev2.locomotive_snippets to dump/locomotive_dev2/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 00:00:21 CDT 2013](SUCCESS):locomotive_dev2 has been transferred
+[Mon Apr 15 00:00:24 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev2/04-15-13:00.tar
+
+connected to: 127.0.0.1
+DATABASE: relbane	 to 	dump/relbane
+	relbane.locomotive_accounts to dump/relbane/locomotive_accounts.bson
+		 4 objects
+	relbane.system.indexes to dump/relbane/system.indexes.bson
+		 6 objects
+	relbane.locomotive_sites to dump/relbane/locomotive_sites.bson
+		 1 objects
+	relbane.locomotive_theme_assets to dump/relbane/locomotive_theme_assets.bson
+		 25 objects
+	relbane.locomotive_pages to dump/relbane/locomotive_pages.bson
+		 11 objects
+	relbane.locomotive_content_types to dump/relbane/locomotive_content_types.bson
+		 0 objects
+	relbane.locomotive_snippets to dump/relbane/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 00:00:25 CDT 2013](SUCCESS):relbane has been transferred
+[Mon Apr 15 00:00:26 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/relbane/04-15-13:00.tar
+
+|=======================================04-15-13  12:00:01 PM=======================================|
+
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev	 to 	dump/locomotive_dev
+	locomotive_dev.locomotive_content_types to dump/locomotive_dev/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev.system.indexes to dump/locomotive_dev/system.indexes.bson
+		 6 objects
+	locomotive_dev.locomotive_sites to dump/locomotive_dev/locomotive_sites.bson
+		 1 objects
+	locomotive_dev.locomotive_accounts to dump/locomotive_dev/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev.locomotive_pages to dump/locomotive_dev/locomotive_pages.bson
+		 11 objects
+	locomotive_dev.locomotive_theme_assets to dump/locomotive_dev/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev.locomotive_snippets to dump/locomotive_dev/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 12:00:02 CDT 2013](SUCCESS):locomotive_dev has been transferred
+[Mon Apr 15 12:00:03 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev/04-15-13:12.tar
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev1	 to 	dump/locomotive_dev1
+	locomotive_dev1.locomotive_accounts to dump/locomotive_dev1/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev1.system.indexes to dump/locomotive_dev1/system.indexes.bson
+		 6 objects
+	locomotive_dev1.locomotive_sites to dump/locomotive_dev1/locomotive_sites.bson
+		 1 objects
+	locomotive_dev1.locomotive_theme_assets to dump/locomotive_dev1/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev1.locomotive_pages to dump/locomotive_dev1/locomotive_pages.bson
+		 12 objects
+	locomotive_dev1.locomotive_content_types to dump/locomotive_dev1/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev1.locomotive_snippets to dump/locomotive_dev1/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 12:00:04 CDT 2013](SUCCESS):locomotive_dev1 has been transferred
+[Mon Apr 15 12:00:05 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev1/04-15-13:12.tar
+
+connected to: 127.0.0.1
+DATABASE: locomotive_dev2	 to 	dump/locomotive_dev2
+	locomotive_dev2.locomotive_accounts to dump/locomotive_dev2/locomotive_accounts.bson
+		 4 objects
+	locomotive_dev2.system.indexes to dump/locomotive_dev2/system.indexes.bson
+		 6 objects
+	locomotive_dev2.locomotive_sites to dump/locomotive_dev2/locomotive_sites.bson
+		 1 objects
+	locomotive_dev2.locomotive_theme_assets to dump/locomotive_dev2/locomotive_theme_assets.bson
+		 25 objects
+	locomotive_dev2.locomotive_pages to dump/locomotive_dev2/locomotive_pages.bson
+		 12 objects
+	locomotive_dev2.locomotive_content_types to dump/locomotive_dev2/locomotive_content_types.bson
+		 0 objects
+	locomotive_dev2.locomotive_snippets to dump/locomotive_dev2/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 12:00:06 CDT 2013](SUCCESS):locomotive_dev2 has been transferred
+[Mon Apr 15 12:00:07 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/locomotive_dev2/04-15-13:12.tar
+
+connected to: 127.0.0.1
+DATABASE: relbane	 to 	dump/relbane
+	relbane.locomotive_accounts to dump/relbane/locomotive_accounts.bson
+		 4 objects
+	relbane.system.indexes to dump/relbane/system.indexes.bson
+		 6 objects
+	relbane.locomotive_sites to dump/relbane/locomotive_sites.bson
+		 1 objects
+	relbane.locomotive_theme_assets to dump/relbane/locomotive_theme_assets.bson
+		 25 objects
+	relbane.locomotive_pages to dump/relbane/locomotive_pages.bson
+		 11 objects
+	relbane.locomotive_content_types to dump/relbane/locomotive_content_types.bson
+		 0 objects
+	relbane.locomotive_snippets to dump/relbane/locomotive_snippets.bson
+		 0 objects
+
+[Mon Apr 15 12:00:08 CDT 2013](SUCCESS):relbane has been transferred
+[Mon Apr 15 12:00:09 CDT 2013](SUCCESS):Created /home/gabejbrenner/mongodb-backup/relbane/04-15-13:12.tar
